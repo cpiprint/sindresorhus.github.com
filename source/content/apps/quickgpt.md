@@ -5,7 +5,8 @@ pubDate: 2023-04-12
 platforms:
   - macOS
 isPaid: true
-redirectUrl: https://sindresorhus.gumroad.com/l/quickgpt
+mainLinks:
+  'Download': https://sindresorhus.gumroad.com/l/quickgpt?wanted=true
 olderMacOSVersions:
   - '13'
 feedbackNote: |
@@ -13,9 +14,6 @@ feedbackNote: |
 ---
 
 Easily access [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) from the menu bar, Dock, or using a keyboard shortcut.
-
-<!-- // TOOD: Show this when I have moved from Gumroad -->
-<!-- ![Download count](https://img.shields.io/github/downloads/sindresorhus/quickgpt-meta/total?color=3e65d0) -->
 
 ### Frequently Asked Questions {#faq}
 

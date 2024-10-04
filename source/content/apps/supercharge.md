@@ -103,7 +103,7 @@ Much of the functionality would not be possible in the App Store because of sand
 
 #### Can you make <kbd>Command+X</kbd> cut files in Finder?
 
-See my [Command X](/command-x) app.
+See my [Command X](/command-x) app. I plan to eventually include this functionality here too, but it's not a priority since you can already get the functionality through Command X.
 
 #### [More FAQs…](/apps/faq)
 
